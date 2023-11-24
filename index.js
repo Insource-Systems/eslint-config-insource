@@ -256,6 +256,7 @@ module.exports = {
       code: 80,
       tabWidth: 2,
       ignoreUrls: true,
+      ignoreStrings: true
     }],
     // '@stylistic/js/max-statements-per-line': 'off',
     // '@stylistic/js/multiline-ternary': 'off',
