@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-insource",
+  "version": "1.0.0",
+  "description": "Standard Insource Systems ES-Lint config",
+  "scripts": {
+    "test": "node __test__/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insource-systems/eslint-config-insource.git"
+  },
+  "author": "Insource Systems, LLC",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "@stylistic/eslint-plugin-js": "^1.4.1",
+    "eslint": "^8.54.0"
+  },
+  "peerDependencies": {
+    "@stylistic/eslint-plugin-js": ">=1.4.1",
+    "eslint": ">=8.54.0"
+  }
+}
