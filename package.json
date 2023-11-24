@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-insource",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Standard Insource Systems ES-Lint config",
   "scripts": {
     "test": "node __test__/test.js"
