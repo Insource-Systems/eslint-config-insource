@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-insource",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Standard Insource Systems ES-Lint config",
   "scripts": {
     "test": "node __test__/test.js"
@@ -14,11 +14,11 @@
     "index.js"
   ],
   "devDependencies": {
-    "@stylistic/eslint-plugin-js": "^1.4.1",
+    "@stylistic/eslint-plugin": "^1.4.1",
     "eslint": "^8.54.0"
   },
   "peerDependencies": {
-    "@stylistic/eslint-plugin-js": ">=1.4.1",
+    "@stylistic/eslint-plugin": ">=1.4.1",
     "eslint": ">=8.54.0"
   }
 }
