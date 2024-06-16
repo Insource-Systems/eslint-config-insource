@@ -253,7 +253,7 @@ module.exports = {
     // '@stylistic/lines-around-comment': 'off',
     // '@stylistic/lines-between-class-members': 'off',
     '@stylistic/max-len': ['error', {
-      code: 80,
+      code: 100,
       tabWidth: 2,
       ignoreUrls: true,
       ignoreStrings: true,
